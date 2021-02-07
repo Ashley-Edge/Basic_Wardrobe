@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block title %}Wardrobe{% endblock %}
+{% block body %}
+<div class="jumbotron">
+	<h1> Your wardrobe </h1>
+	<br>
+	<div>
+		{% if items|length < 1 %}
+		<p> There are no clothes, let's add some! </p>
+		{% else %}
+			<p>-------------------------------------------</p>
+			{% for item in items %}
+				<p>Name: {{ item.name }}</p>
+			<!--	<p>Category: {{ item.category }}</p>
+				<p>Description: {{ item.description }}</p>	-->
+				<button><a href="update/{{ item.id }}">Edit</a></button>
+				<button><a href="delete/{{ item.id }}">Delete</a></button>
+				<br>
+				<p>-------------------------------------------</p>
+			{% endfor %}
+		{% endif %}
+	</div>
+	<form action="/" method="POST">
+		<input type="text" name="name" id="name">
+		<input type="submit" value="Add item">
+	</form>
+</div>
+{% endblock %}
