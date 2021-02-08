@@ -12,7 +12,7 @@ from application.models import *
 
 ##########  New user    ##########
 
-type_of_clothing =['top', 'botton', 'dress']
+#type_of_clothing =['top', 'botton', 'dress']
 
 class NewClothing(FlaskForm):
     clothing_id = HiddenField('id')
