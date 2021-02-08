@@ -19,8 +19,6 @@ See below my initial set up
 ---
 ![ERD table](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601401ee353d0f1029bf7df7/fb86e741a8855122cbd87ebce4e9487b/Wardrobe_ERD_(1).jpeg)
 
-## Pipeline
----
 ##User Stories
 ---
 ![User stories image](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa7b417bbc13625bd9361/c96cc3b0e2aed286020348ec06bae36a/Wardrobe_ERD_(1).jpeg)
@@ -30,6 +28,16 @@ See below my initial set up
 ![risk assessment table](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa898bd0f887e08fc8c5d/ca742fa2a585da029de1157d22adfcc2/risk.jpeg)
 
 ##Testing
+
+We had to aim for 70% - 80% test coverage. Sadly I ran out of time to improve my code and rise my score
+
+My index.html report
+
+![report](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa7e6f564cc8ea3b9cdec/62e822edd948f809a4a4222db559818e/coverage_report_28_.png)
+
+And the error can be seen here.For some reason I am not able to import db. I'll look into this at a later date and improve on it
+
+![error](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa7e6f564cc8ea3b9cdec/18faaaae8d0aeedb10435b2f4b1bea5f/Testing_errors.png)
 ---
 ##Front end website
 ---
