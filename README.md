@@ -46,7 +46,11 @@ Viewing, adding and deleting garments from the wardrobe
 
 Updating an existing garment in the wardrob
 ![Updating an existing garment in the wardrob](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601d7f0f68e42581803dff1a/41ff6f74b92bcb8deb3f8be985f4c5ac/Edit.png)
-
+---
+##Jenkins
+I spent so much time trying to get this working and I don't know how to correct it. *error: invalid command 'bdist_wheel'
+![1](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa7da8817e82d5c10b325/6efa342588d51988ae40a18fbad75f00/Screenshot_(65).png)
+![2](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa7da8817e82d5c10b325/300db0e0ce9a4707846fb53e7bdb7427/Screenshot_(64).png)
 ## Contributors and Acknowledgement
 ---
 I would Like to thank my tutors (Peter, Raji and Luke) for teaching and helpingme get this far with the project. I would also like to thank the other member of our cohurt, you guys are ace.
