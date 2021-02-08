@@ -69,7 +69,6 @@ stevedore==3.3.0
 toml==0.10.2
 typing-extensions==3.7.4.3
 urllib3==1.22
-usb-creator==0.3.3
 virtualenv==20.4.2
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
