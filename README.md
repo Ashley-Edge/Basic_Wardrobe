@@ -19,7 +19,7 @@ See below my initial set up
 ---
 ![ERD table](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601401ee353d0f1029bf7df7/fb86e741a8855122cbd87ebce4e9487b/Wardrobe_ERD_(1).jpeg)
 
-##User Stories
+## User Stories
 ---
 ![User stories image](https://trello-attachments.s3.amazonaws.com/6013fc94dfb0574493f1f044/601aa7b417bbc13625bd9361/c96cc3b0e2aed286020348ec06bae36a/Wardrobe_ERD_(1).jpeg)
 
